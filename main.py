@@ -16,3 +16,7 @@ print("nueva resolucion: acepté los dos")
 
 
 print("primero")
+
+print("intermedio")
+
+print("ultimo")
